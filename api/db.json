@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "dsadas",
+      "description": "dasdsa",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "good one",
+      "id": 2
+    },
+    {
+      "title": "The last one ",
+      "description": "Not bad",
+      "id": 4
+    },
+    {
+      "title": "Last one",
+      "description": "Go go",
+      "userId": "116487282902978240746",
+      "id": 5
+    }
+  ]
+}
